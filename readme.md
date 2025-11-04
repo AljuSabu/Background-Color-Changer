@@ -13,7 +13,7 @@ Each time you click the button, the background color of the page changes to a ra
 
 ![Demo Screenshot](./images/third.png)  
 
-[ive@](https://aljusabu.github.io/Background-Color-Changer/)
+[live@](https://aljusabu.github.io/Background-Color-Changer/)
 
 ---
 
